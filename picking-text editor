@@ -2,3 +2,18 @@ What is a text editor?
 its apeace of software wich will allows you to write and manage textand its important tool to web developer and there is alot feature to text editing softwar
 such as code completion , and  being able to write your HTML and CSS more
 efficiently and syntax highlighting it takes the text you type andthen  makes it more noticeable by colorizing the text
+
+The Command Line
+is a text based interface to the system it will makw you be able to enter commands by typing them on the keyboard
+you can open it easily , you have ashell which its apart of the operating system ( the most common shell called bash
+  
+Basic Navigation
+here you will learn the basics of moving around the system the first command which you will learn here is pwd ( Print Working Directory).
+
+About Files 
+ knowing that every thing is afile it will help you to understand he behaviour of Linux ,the file extension is normally a set of 2 - 4 
+ The following are common extensions:
+file.exe - an executable file, or program.
+file.txt - a plain text file.
+file.png, file.gif, file.jpg - an image.
+the lenux is case sensetive so you should be ware when you are dealing with command line option 
